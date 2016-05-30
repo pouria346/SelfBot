@@ -346,8 +346,8 @@ end
 
 return {
 	patterns = {
-		'#bot (install)$',
-		'#bot (reload)$',
+		'bot (install)$',
+		'bot (reload)$',
 	},
 	run = run
 }
